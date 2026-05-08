@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Elie-Dev-Faya.github.io/docs-0hxinw/sitemap.xml
